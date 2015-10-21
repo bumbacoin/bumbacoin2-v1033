@@ -3,22 +3,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About hackcoin</source>
-        <translation>Despre hackcoin</translation>
+        <source>About Bumbacoin</source>
+        <translation>Despre Bumbacoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;hackcoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;hackcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Bumbacoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Bumbacoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The hackcoin developers</source>
+Copyright © 2014 The hackcoin developers
+Copyright © 2014 -2015 The Bumbacoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The hackcoin developers</translation>
+Copyright © 2014 The hackcoin developersCopyright © 2014 -2015 The Bumbacoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +66,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your hackcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele hackcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Bumbacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Bumbacoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +81,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a hackcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă hackcoin</translation>
+        <source>Sign a message to prove you own a Bumbacoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Bumbacoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +96,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified hackcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă hackcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Bumbacoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Bumbacoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +264,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>hackcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>hackcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Bumbacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Bumbacoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +378,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about hackcoin</source>
-        <translation>Arată informații despre hackcoin</translation>
+        <source>Show information About Bumbacoin</source>
+        <translation>Arată informații despre Bumbacoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +428,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a hackcoin address</source>
-        <translation>Trimite monede către o adresă hackcoin</translation>
+        <source>Send coins to a Bumbacoin address</source>
+        <translation>Trimite monede către o adresă Bumbacoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for hackcoin</source>
-        <translation>Modifică opțiuni de configurare pentru hackcoin</translation>
+        <source>Modify configuration options for Bumbacoin</source>
+        <translation>Modifică opțiuni de configurare pentru Bumbacoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +473,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Bumbacoin</source>
+        <translation>Bumbacoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +483,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About hackcoin</source>
-        <translation>Despre hackcoin</translation>
+        <source>&amp;About Bumbacoin</source>
+        <translation>Despre Bumbacoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +540,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>hackcoin client</source>
-        <translation>Clientul hackcoin</translation>
+        <source>Bumbacoin client</source>
+        <translation>Clientul Bumbacoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to hackcoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua hackcoin</numerusform><numerusform>%n conexiuni active la reteaua hackcoin</numerusform><numerusform>%n conexiuni active la reteaua hackcoin</numerusform></translation>
+        <source>%n active connection(s) to Bumbacoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Bumbacoin</numerusform><numerusform>%n conexiuni active la reteaua Bumbacoin</numerusform><numerusform>%n conexiuni active la reteaua Bumbacoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +585,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About hackcoin card</source>
-        <translation>Despre cardul hackcoin</translation>
+        <source>About Bumbacoin card</source>
+        <translation>Despre cardul Bumbacoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about hackcoin card</source>
-        <translation>Arată informații despre card hackcoin</translation>
+        <source>Show information About Bumbacoin card</source>
+        <translation>Arată informații despre card Bumbacoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +670,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid hackcoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa hackcoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Bumbacoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Bumbacoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +730,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. hackcoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. hackcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Bumbacoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Bumbacoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1064,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid hackcoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă hackcoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Bumbacoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Bumbacoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1083,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>hackcoin-Qt</source>
-        <translation>hackcoin-Qt</translation>
+        <source>Bumbacoin-Qt</source>
+        <translation>Bumbacoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1156,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start hackcoin after logging in to the system.</source>
-        <translation>Pornește hackcoin imdiat după logarea în sistem</translation>
+        <source>Automatically start Bumbacoin after logging in to the system.</source>
+        <translation>Pornește Bumbacoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start hackcoin on system login</source>
-        <translation>$Pornește hackcoin la logarea în sistem</translation>
+        <source>&amp;Start Bumbacoin on system login</source>
+        <translation>$Pornește Bumbacoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1181,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the hackcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul hackcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Bumbacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Bumbacoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1191,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the hackcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua hackcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Bumbacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Bumbacoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1266,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting hackcoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea hackcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bumbacoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Bumbacoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1281,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show hackcoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese hackcoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Bumbacoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Bumbacoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1328,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting hackcoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea hackcoin.</translation>
+        <source>This setting will take effect after restarting Bumbacoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Bumbacoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1347,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the hackcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua hackcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bumbacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Bumbacoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1563,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the hackcoin-Qt help message to get a list with possible hackcoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor hackcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă hackcoin.</translation>
+        <source>Show the Bumbacoin-Qt help message to get a list with possible Bumbacoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor Bumbacoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Bumbacoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1583,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>hackcoin - Debug window</source>
-        <translation>hackcoin - fereastră depanare</translation>
+        <source>Bumbacoin - Debug window</source>
+        <translation>Bumbacoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>hackcoin Core</source>
-        <translation>hackcoin Core</translation>
+        <source>Bumbacoin Core</source>
+        <translation>Bumbacoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1598,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the hackcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare hackcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Bumbacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Bumbacoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1608,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the hackcoin RPC console.</source>
-        <translation>Bine ati venit la consola hackcoin RPC.</translation>
+        <source>Welcome to the Bumbacoin RPC console.</source>
+        <translation>Bine ati venit la consola Bumbacoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1767,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă hackcoin(ex:hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bumbacoin address (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă Bumbacoin(ex:BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1867,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid hackcoin address</source>
-        <translation>Atenție: Adresă hackcoin invalidă</translation>
+        <source>WARNING: Invalid Bumbacoin address</source>
+        <translation>Atenție: Adresă Bumbacoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1911,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa catre care trimiteti plata(ex. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa catre care trimiteti plata(ex. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1941,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă hackcoin(ex:hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bumbacoin address (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă Bumbacoin(ex:BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1965,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care semnati mesajul(ex. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care semnati mesajul(ex. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2002,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this hackcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă hackcoin</translation>
+        <source>Sign the message to prove you own this Bumbacoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Bumbacoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2029,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified hackcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă hackcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Bumbacoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Bumbacoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2045,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă hackcoin(ex:hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bumbacoin address (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă Bumbacoin(ex:BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2055,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter hackcoin signature</source>
-        <translation>Introduceti semnatura hackcoin</translation>
+        <source>Enter Bumbacoin signature</source>
+        <translation>Introduceti semnatura Bumbacoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2626,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>hackcoin version</source>
-        <translation>Versiune hackcoin</translation>
+        <source>Bumbacoin version</source>
+        <translation>Versiune Bumbacoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2636,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or hackcoind</source>
-        <translation>Trimite comanda catre server sau hackcoind</translation>
+        <source>Send command to -server or Bumbacoind</source>
+        <translation>Trimite comanda catre server sau Bumbacoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2656,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: hackcoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: hackcoin.conf)</translation>
+        <source>Specify configuration file (default: Bumbacoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: Bumbacoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: hackcoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: hackcoin.pid)</translation>
+        <source>Specify pid file (default: Bumbacoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: Bumbacoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2811,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong hackcoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit hackcoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bumbacoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Bumbacoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,22 +3001,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=hackcoinrpc
+rpcuser=Bumbacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bumbacoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=hackcoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Bumbacoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Bumbacoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3141,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  hackcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Bumbacoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Bumbacoin</source>
+        <translation>Bumbacoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3181,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of hackcoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de hackcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bumbacoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Bumbacoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart hackcoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați hackcoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Bumbacoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Bumbacoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3256,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. hackcoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil hackcoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Bumbacoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Bumbacoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -131,7 +131,7 @@
              <cursorShape>IBeamCursor</cursorShape>
             </property>
             <property name="toolTip">
-             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Total of bumba that was staked, and do not yet count toward the current bumba&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             <string>Total of bumba that was staked, and do not yet count toward the current bumba</string>
             </property>
             <property name="text">
              <string notr="true">0 BUMBA</string>
@@ -160,7 +160,7 @@
              <cursorShape>IBeamCursor</cursorShape>
             </property>
             <property name="toolTip">
-             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;the bumba is coming. you must wait&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             <string>the bumba is coming. you must wait</string>
             </property>
             <property name="text">
              <string notr="true">0 BUMBA</string>

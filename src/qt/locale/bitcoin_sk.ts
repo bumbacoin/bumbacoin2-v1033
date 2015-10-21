@@ -3,22 +3,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About hackcoin</source>
-        <translation>O hackcoin</translation>
+        <source>About Bumbacoin</source>
+        <translation>O Bumbacoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;hackcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;hackcoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;Bumbacoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Bumbacoin&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The hackcoin developers</source>
+Copyright © 2014 The hackcoin developers
+Copyright © 2014 -2015 The Bumbacoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The hackcoin developers</translation>
+Copyright © 2014 The hackcoin developersCopyright © 2014 -2015 The Bumbacoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +66,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your hackcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše hackcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your Bumbacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Bumbacoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +81,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a hackcoin address</source>
-        <translation>Podpísať správu, že vlastníte hackcoin adresu</translation>
+        <source>Sign a message to prove you own a Bumbacoin address</source>
+        <translation>Podpísať správu, že vlastníte Bumbacoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +96,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified hackcoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou hackcoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Bumbacoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Bumbacoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +264,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>hackcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>hackcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>Bumbacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Bumbacoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +378,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about hackcoin</source>
-        <translation>Zobraziť informácie o hackcoin</translation>
+        <source>Show information About Bumbacoin</source>
+        <translation>Zobraziť informácie o Bumbacoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +428,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a hackcoin address</source>
-        <translation>Poslať mince na hackcoin adresu</translation>
+        <source>Send coins to a Bumbacoin address</source>
+        <translation>Poslať mince na Bumbacoin adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for hackcoin</source>
-        <translation>Upraviť možnosti konfigurácie pre hackcoin</translation>
+        <source>Modify configuration options for Bumbacoin</source>
+        <translation>Upraviť možnosti konfigurácie pre Bumbacoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +473,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Bumbacoin</source>
+        <translation>Bumbacoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +483,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About hackcoin</source>
-        <translation>&amp;O hackcoin</translation>
+        <source>&amp;About Bumbacoin</source>
+        <translation>&amp;O Bumbacoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +540,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>hackcoin client</source>
-        <translation>hackcoin client</translation>
+        <source>Bumbacoin client</source>
+        <translation>Bumbacoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to hackcoin network</source>
-        <translation><numerusform>%n aktívne spojenie s hackcoin sieťov</numerusform><numerusform>%n aktívnych spojení s hackcoin sieťov</numerusform><numerusform>%n aktívnych spojení s hackcoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to Bumbacoin network</source>
+        <translation><numerusform>%n aktívne spojenie s Bumbacoin sieťov</numerusform><numerusform>%n aktívnych spojení s Bumbacoin sieťov</numerusform><numerusform>%n aktívnych spojení s Bumbacoin sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +585,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About hackcoin card</source>
-        <translation>O hackcoin karte</translation>
+        <source>About Bumbacoin card</source>
+        <translation>O Bumbacoin karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about hackcoin card</source>
-        <translation>Zobraziť informácie o hackcoin karte</translation>
+        <source>Show information About Bumbacoin card</source>
+        <translation>Zobraziť informácie o Bumbacoin karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +669,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid hackcoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou hackcoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Bumbacoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou Bumbacoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +729,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. hackcoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. hackcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Bumbacoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Bumbacoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1063,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid hackcoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou hackcoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Bumbacoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Bumbacoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1082,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>hackcoin-Qt</source>
-        <translation>hackcoin-Qt</translation>
+        <source>Bumbacoin-Qt</source>
+        <translation>Bumbacoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1155,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start hackcoin after logging in to the system.</source>
-        <translation>Automaticky spustiť hackcoin po prihlásení sa do systému.</translation>
+        <source>Automatically start Bumbacoin after logging in to the system.</source>
+        <translation>Automaticky spustiť Bumbacoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start hackcoin on system login</source>
-        <translation>&amp;Spustiť hackcoin pri prihlásení do systému</translation>
+        <source>&amp;Start Bumbacoin on system login</source>
+        <translation>&amp;Spustiť Bumbacoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1180,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the hackcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta hackcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Bumbacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Bumbacoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1190,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the hackcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti hackcoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Bumbacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Bumbacoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1265,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting hackcoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní hackcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bumbacoin.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní Bumbacoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1280,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show hackcoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť hackcoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show Bumbacoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť Bumbacoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1327,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting hackcoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní hackcoin.</translation>
+        <source>This setting will take effect after restarting Bumbacoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Bumbacoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1346,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the hackcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou hackcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bumbacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Bumbacoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1562,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the hackcoin-Qt help message to get a list with possible hackcoin command-line options.</source>
-        <translation>Zobraziť hackcoin-Qt nápovedu k získaniu zoznamu pre možnosti hackcoin príkazového riadku.</translation>
+        <source>Show the Bumbacoin-Qt help message to get a list with possible Bumbacoin command-line options.</source>
+        <translation>Zobraziť Bumbacoin-Qt nápovedu k získaniu zoznamu pre možnosti Bumbacoin príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1582,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>hackcoin - Debug window</source>
-        <translation>hackcoin - Ladiace okno</translation>
+        <source>Bumbacoin - Debug window</source>
+        <translation>Bumbacoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>hackcoin Core</source>
-        <translation>hackcoin Core</translation>
+        <source>Bumbacoin Core</source>
+        <translation>Bumbacoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1597,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the hackcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte hackcoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the Bumbacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte Bumbacoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1607,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the hackcoin RPC console.</source>
-        <translation>Vitajte v hackcoin RPC konzole.</translation>
+        <source>Welcome to the Bumbacoin RPC console.</source>
+        <translation>Vitajte v Bumbacoin RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,8 +1766,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte hackcoin adresu (napr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bumbacoin address (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte Bumbacoin adresu (napr. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1866,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid hackcoin address</source>
-        <translation>VAROVANIE: Neplatná hackcoin adresa</translation>
+        <source>WARNING: Invalid Bumbacoin address</source>
+        <translation>VAROVANIE: Neplatná Bumbacoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1909,8 +1910,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa pre poslanie platby (napr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa pre poslanie platby (napr. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1939,8 +1940,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadaj a hackcoin addresu (napr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bumbacoin address (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadaj a Bumbacoin addresu (napr. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1963,8 +1964,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa na podpísanie správy (napr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa na podpísanie správy (napr. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2000,8 +2001,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this hackcoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto hackcoin adresu</translation>
+        <source>Sign the message to prove you own this Bumbacoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Bumbacoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2027,13 +2028,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa správy bola podpísaná (napr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa správy bola podpísaná (napr. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified hackcoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou hackcoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified Bumbacoin address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou Bumbacoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2044,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadajte hackcoin adresu (napr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bumbacoin address (e.g. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte Bumbacoin adresu (napr. BumbacoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2054,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter hackcoin signature</source>
-        <translation>Zadajte hackcoin podpis</translation>
+        <source>Enter Bumbacoin signature</source>
+        <translation>Zadajte Bumbacoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2625,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>hackcoin version</source>
-        <translation>hackcoin verzia</translation>
+        <source>Bumbacoin version</source>
+        <translation>Bumbacoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2635,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or hackcoind</source>
-        <translation>Pošli príkaz na -server alebo hackcoind</translation>
+        <source>Send command to -server or Bumbacoind</source>
+        <translation>Pošli príkaz na -server alebo Bumbacoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2655,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: hackcoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: hackcoin.conf)</translation>
+        <source>Specify configuration file (default: Bumbacoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: Bumbacoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: hackcoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: hackcoind.pid)</translation>
+        <source>Specify pid file (default: Bumbacoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: Bumbacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2810,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong hackcoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny hackcoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bumbacoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Bumbacoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +3000,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=hackcoinrpc
+rpcuser=Bumbacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bumbacoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=hackcoinrpc
+rpcuser=Bumbacoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;Bumbacoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3141,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  hackcoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. hackcoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Bumbacoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. Bumbacoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Bumbacoin</source>
+        <translation>Bumbacoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3181,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of hackcoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu hackcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bumbacoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Bumbacoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart hackcoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte hackcoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Bumbacoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Bumbacoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3256,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. hackcoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. hackcoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Bumbacoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Bumbacoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>
