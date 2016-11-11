@@ -14,7 +14,9 @@
 
 #include <QApplication>
 #include <QMessageBox>
+#if QT_VERSION < 0x050000
 #include <QTextCodec>
+#endif
 #include <QLocale>
 #include <QTranslator>
 #include <QSplashScreen>
